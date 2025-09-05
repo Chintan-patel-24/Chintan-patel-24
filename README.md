@@ -23,8 +23,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya0155&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
-
 
 ## <h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=chintan-patel-24&label=Profile%20views&color=224bb3&style=flat" alt="chintan-patel-24" /> </p></h1>
