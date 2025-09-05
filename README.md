@@ -1,8 +1,7 @@
 # 💫 About Me
 
 **👋 Hey, I'm Chintan Patel  !!**  
-🚀 I Love Linux and the open-source community... 
-      shaken,not stirred.        
+🚀 Linux & open-source , but with style..        
 📚 Currently diving into DSA (with c++).   
 🔍 Passionate about Cybersecurity & Ethical-Hacking. 
 
