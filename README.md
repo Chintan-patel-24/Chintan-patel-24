@@ -25,4 +25,3 @@
 ---
 
 
-## <h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=chintan-patel-24&label=Profile%20views&color=224bb3&style=flat" alt="chintan-patel-24" /> </p></h1>
