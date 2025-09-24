@@ -72,7 +72,8 @@
 <h2 align="center">⚡ Current Statistics ⚡</h2>
 
 <div align=center>
-<img src="https://streak-stats.demolab.com?user=Chintan-patel-24&theme=github-dark-blue" alt="GitHub Streak" />
+ 
+![Chintan-patel-24's Stats](https://github-readme-stats.vercel.app/api?username=Chintan-patel-24&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan-patel-24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
