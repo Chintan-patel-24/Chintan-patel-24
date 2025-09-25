@@ -56,6 +56,8 @@
  </a>
 <a> <image src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arch-Dark.svg" alt="Arch" width="40" height="40"/>
  </a>
+ <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="github" width="40"  height="40"/>
+ </a>
 
 ---
 
