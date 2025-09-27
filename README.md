@@ -47,6 +47,8 @@
 </a>
 <a> <img src="https://play-lh.googleusercontent.com/m3oqSZCwmitiZ-Im-CQu_rqT5eLHilOp5IudBynv3COJUumFzuQaP2dgTDxRL_03f4x2" alt="termux" width="45" height="45">
 </a>
+<a> <img src="https://img.utdstc.com/icon/968/ccc/968cccc2d5cb83158f8749cc255be61f84cfd18196aeff93872f7d80a2361f91:200" alt="neo store" width="45" height="45">
+</a>
 <a>  <img src="https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png" alt="f-droid" width="45" height="45">
 </a>
 <a> 
