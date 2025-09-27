@@ -31,7 +31,7 @@
 
 <div align=center>
 
-<h1> 💻 Tech love 💻 </h1>
+<h1> 💻 Tech stak 💻 </h1>
 
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" alt="arduino" width="45" height="45">
 </a>
@@ -54,8 +54,6 @@
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Unity-Dark.svg" alt="unity" width="45" height="45">
   </a>
   <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/RaspberryPi-Dark.svg" alt="ruspburry pi" width="45" height="45">
-</a>
-<a> 
 </a>
 <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Replit-Dark.svg" alt="replit" width="45" height="45">
 </a>
