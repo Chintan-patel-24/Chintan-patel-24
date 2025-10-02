@@ -21,7 +21,7 @@
 <h1> 🌐 Socials 🌐 </h1>
 
 <img alt="AdobeXD.png" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/AdobeXD.png?raw=true" alt="arduino" width="45" height="45">
-
+<img alt="Android.png" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Android.png?raw=true" alt="arduino" width="45" height="45">
 </div>
 
 ---
