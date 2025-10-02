@@ -16,16 +16,6 @@
 
 ---
 
-<div align=center>
-
-<h1> 🌐 Socials 🌐 </h1>
-
-
-<img alt="Android.png" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Android.png?raw=true" alt="arduino" width="45" height="45">
-</div>
-
----
-
 <h1> 💻 Tech stack 💻 </h1>
 
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" alt="arduino" width="45" height="45">
