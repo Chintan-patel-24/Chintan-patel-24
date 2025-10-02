@@ -19,7 +19,7 @@
 <div align=center>
  
 <h1> 🌐 Socials 🌐 </h1>
- <a> <img src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" jsaction="" class="sFlh5c FyHeAf iPVvYb"alt="arduino" width="45" height="45">
+ <a> <img src="https://lh4.googleusercontent.com/proxy/KHT68k189H9-BHy1eCuSasUtgfd6lcP4QSpc2Kksjwmr8xKHhEN1MlyR7HRcetjOCZSeJahbJqpPitVshgx-uyG6OnYq4LO169f8LI8gIMuj8Xgk1yipHO6QA-ADMhrZLnsS_j3vouGxM92a_z4" alt="linkdin" width="40" height="50">
 </a>
 
  </div>
