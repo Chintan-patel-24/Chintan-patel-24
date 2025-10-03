@@ -82,14 +82,12 @@
 
 ---
 
-
-<h2 align="center">⚡ Current Statistics ⚡</h2>
-
 <div align=center>
  
-![Chintan-patel-24's Stats](https://github-readme-stats.vercel.app/api?username=Chintan-patel-24&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan-patel-24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chintan-patel-24&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan-patel-24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=Chintan-patel-24&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 </div>
 
