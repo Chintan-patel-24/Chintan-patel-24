@@ -16,6 +16,15 @@
 
 ---
 
+<div align=center>
+ 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Chintan-patel-24&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
+---
+
+<div align=center>
 <h1> 💻 Tech stack 💻 </h1>
 
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" alt="arduino" width="45" height="45">
@@ -60,6 +69,8 @@
  </a>
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="github" width="45"  height="45"/>
  </a>
+
+</div>
 
 ---
 
