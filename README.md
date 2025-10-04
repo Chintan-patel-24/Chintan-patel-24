@@ -96,3 +96,11 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/sample.gif">
+    <source media="(prefers-color-scheme: light)" srcset="docs/assets/sample.gif">
+    <img alt="GIFOS" src="docs/assets/sample.gif">
+</picture>
