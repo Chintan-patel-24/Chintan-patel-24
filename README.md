@@ -29,10 +29,13 @@
 </a>
 <a> <img src="https://cdn-icons-png.flaticon.com/256/124/124034.png"  alt="whatsapp" width="45" height="45">
 </a>
+<a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" alt="steam" width="45" height="45">
+</a>
 <a> <img src="https://cbx-prod.b-cdn.net/COLOURBOX65107974.jpg?width=800&amp;height=800&amp;quality=70" alt="X" width="45" height="45">
 </a>
 <a> <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" alt="discord" width="45" height="45">
 </a>
+
 </div>
 
 ---
