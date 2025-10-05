@@ -25,6 +25,8 @@
 </a>
 <a> <img src="https://cdn.jim-nielsen.com/ios/512/reddit-2025-04-13.png?rf=1024"  alt="reddit" width="45" height="45">
 </a>
+<a> <img src="https://cdn-icons-png.flaticon.com/512/124/124019.png" alt="telegram" width="45" height="45">
+</a>
 </div>
 
 ---
