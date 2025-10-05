@@ -29,7 +29,7 @@
 </a>
 <a> <img src="https://cdn-icons-png.flaticon.com/256/124/124034.png"  alt="whatsapp" width="45" height="45">
 </a>
-<a> 
+<a> <img src="https://cbx-prod.b-cdn.net/COLOURBOX65107974.jpg?width=800&amp;height=800&amp;quality=70" alt="X" width="45" height="45">
 </a>
 </div>
 
