@@ -71,6 +71,8 @@
 </a>
 <a>  <img src="https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png" alt="f-droid" width="45" height="45">
 </a>
+<a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tor_Browser_icon.svg/2048px-Tor_Browser_icon.svg.png" alt="tor" width="45" height="45">
+</a>
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/2089px-Fedora_icon_%282021%29.svg.png" alt="fidora" width="45" height="45">
  </a>
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Unity-Dark.svg" alt="unity" width="45" height="45">
