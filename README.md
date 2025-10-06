@@ -123,4 +123,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan-patel-24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
 </div>
-
