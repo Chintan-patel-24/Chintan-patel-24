@@ -97,6 +97,8 @@
 </a>
 <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" alt="linux" width="45" height="45">
 </a>
+<a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="github" width="45"  height="45"/>
+ </a>
   <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" alt="windws" width="45" height="45">
  </a>
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg" alt="unantu" width="45" height="45">
@@ -104,8 +106,6 @@
 <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arch-Dark.svg" alt="Arch" width="45" height="45"/>
  </a>
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg" alt="kali" width="45" height="45">
- </a>
- <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="github" width="45"  height="45"/>
  </a>
 
 </div>
