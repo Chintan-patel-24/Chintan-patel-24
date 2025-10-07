@@ -29,6 +29,8 @@
 </a>
 <a> <img src="https://cdn-icons-png.flaticon.com/512/124/124019.png" alt="telegram" width="45" height="45">
 </a>
+<a>
+</a>
 <a> <img src="https://cdn-icons-png.flaticon.com/256/124/124034.png"  alt="whatsapp" width="45" height="45">
 </a>
 <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_HTqOkI6MNfXfytgF2fTYecvkBQs3ZkI2w&amp;s"  alt="steam" width="45" height="45">
