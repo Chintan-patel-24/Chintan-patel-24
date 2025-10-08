@@ -15,7 +15,7 @@
 
 ---
 
-<div align=Justify>
+<div align=center>
  
  ## 🌐 socials 🌐
  
