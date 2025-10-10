@@ -20,8 +20,8 @@
  ## 🌐 socials 🌐
  
 </div>
-
 <div align=center>
+
 <a> <img src="https://cdn-icons-png.flaticon.com/512/2190/2190367.png"  alt="linkdin" width="45" height="45">
 </a>
  <a> <img src="https://cdn-icons-png.freepik.com/256/15707/15707869.png?semt=ais_white_label" alt="instagram" width="45" height="45">
@@ -38,7 +38,6 @@
 </a>
 <a> <img src="https://cdn-icons-png.flaticon.com/256/124/124034.png"  alt="whatsapp" width="45" height="45">
 </a>
-
 <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_HTqOkI6MNfXfytgF2fTYecvkBQs3ZkI2w&amp;s"  alt="steam" width="45" height="45">
 </a>
 <a> <img src="https://cbx-prod.b-cdn.net/COLOURBOX65107974.jpg?width=800&amp;height=800&amp;quality=70" alt="X" width="45" height="45">
