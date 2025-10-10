@@ -39,7 +39,7 @@
 <a> <img src="https://cdn-icons-png.flaticon.com/256/124/124034.png"  alt="whatsapp" width="45" height="45">
 </a>
 </div>
-<div align=center>
+
 <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_HTqOkI6MNfXfytgF2fTYecvkBQs3ZkI2w&amp;s"  alt="steam" width="45" height="45">
 </a>
 <a> <img src="https://cbx-prod.b-cdn.net/COLOURBOX65107974.jpg?width=800&amp;height=800&amp;quality=70" alt="X" width="45" height="45">
