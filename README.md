@@ -51,6 +51,7 @@
 <div align=center>
 
 ## 🏆 GitHub Trophies 🏆
+
 </div>
 <div align=center>
 
