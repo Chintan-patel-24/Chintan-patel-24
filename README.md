@@ -49,7 +49,7 @@
 ---
 
 <div align=center>
- 
+
 ## 🏆 GitHub Trophies 🏆
 </div>
 
