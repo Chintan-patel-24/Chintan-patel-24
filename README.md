@@ -137,3 +137,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan-patel-24&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Chintan-patel-24's GitHub Stats" />
 
 </div>
+
+
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
