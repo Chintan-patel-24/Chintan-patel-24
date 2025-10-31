@@ -48,14 +48,10 @@
 
 <div align=center>
 
-## 🏆 GitHub Trophies 🏆
-
-</div>
-<div align=center>
-
-![](https://github-profile-trophy.vercel.app/?username=Chintan-patel-24&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
+### 🏆 GitHub Achievements & Activity
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parthkukadiya636-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
