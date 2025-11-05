@@ -59,7 +59,7 @@
 
 <dev align=center>
  
-## 🏆 GitHub Achievements & Activity 🏆 
+## 🏆 GitHub Achievements 🏆 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chintan-patel-24&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
