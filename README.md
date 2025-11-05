@@ -63,6 +63,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chintan-patel-24&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintan-patel-24&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
 </dev>
 
 ---
