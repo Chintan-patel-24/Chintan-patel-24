@@ -64,6 +64,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=chintan-patel-24&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </dev>
+
 ---
 
 <div align=center>
