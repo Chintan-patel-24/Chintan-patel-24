@@ -30,8 +30,6 @@
  
  ## 🌐 socials 🌐
  
-</div>
-
 <a> <img src="https://cdn-icons-png.flaticon.com/512/2190/2190367.png"  alt="linkdin" width="45" height="45">
 </a>
  <a> <img src="https://cdn-icons-png.freepik.com/256/15707/15707869.png?semt=ais_white_label" alt="instagram" width="45" height="45">
@@ -55,7 +53,7 @@
 <a> <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" alt="discord" width="45" height="45">
 </a>
 
-</dev>
+<dev>
 ---
 
 ### 🏆 GitHub Achievements & Activity
