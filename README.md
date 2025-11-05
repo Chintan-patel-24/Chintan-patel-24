@@ -15,6 +15,17 @@
 
 ---
 
+<p align="center">
+  <!-- Holopin Board -->
+  <a href="https://holopin.io/@chintanpatel24" target="_blank">
+    <img src="https://holopin.me/prajbhatt"
+      alt="@prajbhatt's Holopin board"
+      width="600"
+      style="vertical-align: middle; border-radius: 10px;"/>
+  </a>
+
+---
+
 <div align=center>
  
  ## 🌐 socials 🌐
