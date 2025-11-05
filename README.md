@@ -135,8 +135,8 @@
  
 # 📈 GitHub Stats 📉
 
-<img src="https://streak-stats.demolab.com?user=Chintan-patel-24&theme=dark&hide_border=true" alt="Chintan-patel-24's GitHub Stats" />
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chintan-patel-24&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
+  
 <img src="https://github-readme-stats.vercel.app/api?username=Chintan-patel-24&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Chintan-patel-24's GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan-patel-24&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Chintan-patel-24's GitHub Stats" />
