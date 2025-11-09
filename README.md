@@ -1,9 +1,12 @@
 <div align=center>
  
- # 💫 About Me. <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
+ # 💫 About Me.  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
  
  </div>
 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Chintan+Patel++an+IT+enginner....;Hacking+%26+NetworkSecurity+Enthusiast....;Passionat+About+Electronics++%26+......)](https://git.io/typing-svg)
  ---
  
  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" style="margin: 0 0 10px 10px;">
