@@ -154,7 +154,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=Chintan-patel-24&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Chintan-patel-24's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan-patel-24&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Chintan-patel-24's GitHub Stats" />
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan-patel-24&theme=tokyonight)
 
