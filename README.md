@@ -163,7 +163,7 @@
       <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=<chintan-patel-24&theme=react&hide_border=true" />
       <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chintan-patel-24&theme=react&hide_border=true"/>
       <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chintan-patel-24&theme=react&hide_border=true"/>
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nahuel61920&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chintan-patel-24&layout=compact&langs_count=7&theme=react&hide_border=true"/>
     </p>
   </a>
   <p  align="center">
