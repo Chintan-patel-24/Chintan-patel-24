@@ -159,7 +159,7 @@
 <div align="center">
   <a href="https://github.com/Nahuel61920">
     <p align="center">
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chintan-patel-24&show_icons=true&theme=react&hide_border=true" />
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chintan-patel-24&show_icons=true&theme=dark&hide_border=true" />
       <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=<chintan-patel-24&theme=react&hide_border=true" />
       <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chintan-patel-24&theme=react&hide_border=true"/>
       <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chintan-patel-24&theme=react&hide_border=true"/>
