@@ -150,25 +150,15 @@
  
 # 📈 GitHub Stats 📉
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chintan-patel-24&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Chintan-patel-24&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Chintan-patel-24's GitHub Stats" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan-patel-24&theme=dark)
-
-<div align="center">
-  <a href="https://github.com/Nahuel61920">
+  <a href="https://github.com/Chintan-patel-24">
     <p align="center">
       <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chintan-patel-24&show_icons=true&theme=dark&hide_border=true" />
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=<chintan-patel-24&theme=react&hide_border=true" />
-      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chintan-patel-24&theme=react&hide_border=true"/>
-      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chintan-patel-24&theme=react&hide_border=true"/>
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chintan-patel-24&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=<chintan-patel-24&theme=dark&hide_border=true" />
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chintan-patel-24&theme=dark&hide_border=true"/>
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chintan-patel-24&theme=dark&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chintan-patel-24&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
     </p>
   </a>
-  <p  align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-  <br>
+  
 </div>
 
-</div>
