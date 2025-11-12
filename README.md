@@ -152,6 +152,10 @@
  
 ## 📈 financial stack 📉
 
+<img src="https://public.bnbstatic.com/20190405/eb2349c3-b2f8-4a93-a286-8f86a62ea9d8.png" alt="bunance" width="45" height="45">
+<img src="https://play-lh.googleusercontent.com/8lMo-DTtU9O10OXPr_gZYQOnYfFg6BGPgwRKnx88sczAOivcQ6M7ln_ukIp--OVtAB8" alt="meta trade" width="45" height="45">
+<img src="https://play-lh.googleusercontent.com/LHjOai6kf1IsstKNWO9jbMxD-ix_FVYaJSLodKCqYQdoFVzQBuV9z5txxzcTagQcyX8=w240-h480-rw" alt="grow" width="45" height="45">
+<img src="https://play-lh.googleusercontent.com/Mz83heom_8jnRplnSDxZFJ3WMz7EpMARiMZPkKTHpWF2HAh9DZTJFphjLTSWxfTa_g" alt="trading view" width="45" height="45">
 
 
 ---
@@ -166,7 +170,7 @@
 
 <div align=center>
  
-#  GitHub Stats 
+## 👨‍💻 GitHub Stats 👨‍💻
 
   <a href="https://github.com/Chintan-patel-24">
     <p align="center">
