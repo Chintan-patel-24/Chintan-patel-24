@@ -148,6 +148,13 @@
 
 ---
 
+<div align=center>
+ 
+## 📈 financial stack 📉
+
+
+
+---
 <p align="center">
   <a href="https://leetcode.com//" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="145" width="145" /></a>
   <a href="https://leetcode.com//" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="145" width="145" /></a>
@@ -159,7 +166,7 @@
 
 <div align=center>
  
-# 📈 GitHub Stats 📉
+#  GitHub Stats 
 
   <a href="https://github.com/Chintan-patel-24">
     <p align="center">
