@@ -150,7 +150,7 @@
 
 <div align=center>
  
-## 📈 financial stack 📉
+## 📈 Financial literacy 📉
 
 <img src="https://public.bnbstatic.com/20190405/eb2349c3-b2f8-4a93-a286-8f86a62ea9d8.png" alt="bunance" width="45" height="45">
 <img src="https://play-lh.googleusercontent.com/8lMo-DTtU9O10OXPr_gZYQOnYfFg6BGPgwRKnx88sczAOivcQ6M7ln_ukIp--OVtAB8" alt="meta trade" width="45" height="45">
