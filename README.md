@@ -98,6 +98,8 @@
  </a>
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="postmen" width="45" height="45">
 </a>
+<a> <img src="https://p7.hiclipart.com/preview/142/501/101/xfce-xubuntu-logo-desktop-environment-post-it-note-blue-badge.jpg" alt="xfce" width="45" height="45">
+</a>
 <a> <img src="https://pbs.twimg.com/profile_images/1906737039724400640/aUuTetdY_400x400.jpg" alt="langflow" width="45" height="45">
 </a>
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KDE_logo.svg/2048px-KDE_logo.svg.png" alt="KDE" width="45" height="45">
