@@ -103,7 +103,7 @@
 <a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KDE_logo.svg/2048px-KDE_logo.svg.png" alt="KDE" width="45" height="45">
 </a>
-<a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJNnjZv36ijogi3aM_xcSMy26_QeOWrVmJQ&amp;s" alt="vscode" width="45" height="45">
+<a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJNnjZv36ijogi3aM_xcSMy26_QeOWrVmJQ&amp;s" alt="code-oss" width="45" height="45">
 </a>
 <a> <img src="https://play-lh.googleusercontent.com/m3oqSZCwmitiZ-Im-CQu_rqT5eLHilOp5IudBynv3COJUumFzuQaP2dgTDxRL_03f4x2" alt="termux" width="45" height="45">
 </a>
