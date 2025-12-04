@@ -17,12 +17,16 @@
 
 </div>
 
+<pre>
 
-**👋 Hey, I'm Chintan Patel  !!**  
-- 🚀 Linux & open-source , but with style..        
-- 📚 Currently diving into DSA (with c++).   
-- 🔍 Passionate about Cybersecurity & Ethical-Hacking. 
-
+• 👋 Hey, I'm Chintan Patel  !!
+• 🚀 Linux & open-source , but with style..        
+• 📚 Currently diving into DSA (with c++).   
+• 🔍 Passionate about Cybersecurity & Ethical-Hacking. 
+• 🎩 Red Teaming.
+ 
+</pre>
+ 
 ---
 
 <pre>
