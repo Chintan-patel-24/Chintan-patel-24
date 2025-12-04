@@ -100,8 +100,6 @@
 </a>
 <a> <img src="https://pbs.twimg.com/profile_images/1906737039724400640/aUuTetdY_400x400.jpg" alt="langflow" width="45" height="45">
 </a>
-<a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KDE_logo.svg/2048px-KDE_logo.svg.png" alt="KDE" width="45" height="45">
-</a>
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Gnomelogo-footprint.svg" alt="gnome" width="45" height="45">
 </a>
 <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJNnjZv36ijogi3aM_xcSMy26_QeOWrVmJQ&amp;s" alt="code-oss" width="45" height="45">
@@ -113,6 +111,8 @@
 <a>  <img src="https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png" alt="f-droid" width="45" height="45">
 </a>
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tor_Browser_icon.svg/2048px-Tor_Browser_icon.svg.png" alt="tor" width="45" height="45">
+</a>
+<a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KDE_logo.svg/2048px-KDE_logo.svg.png" alt="KDE" width="45" height="45">
 </a>
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/2089px-Fedora_icon_%282021%29.svg.png" alt="fidora" width="45" height="45">
  </a>
