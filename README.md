@@ -148,6 +148,7 @@
 <img src="https://public.bnbstatic.com/20190405/eb2349c3-b2f8-4a93-a286-8f86a62ea9d8.png" alt="bunance" width="45" height="45">
 <img src="https://play-lh.googleusercontent.com/8lMo-DTtU9O10OXPr_gZYQOnYfFg6BGPgwRKnx88sczAOivcQ6M7ln_ukIp--OVtAB8" alt="meta trade" width="45" height="45">
 <img src="https://play-lh.googleusercontent.com/LHjOai6kf1IsstKNWO9jbMxD-ix_FVYaJSLodKCqYQdoFVzQBuV9z5txxzcTagQcyX8=w240-h480-rw" alt="grow" width="45" height="45">
+<img src="https://play-lh.googleusercontent.com/PjoJoG27miSglVBXoXrxBSLveV6e3EeBPpNY55aiUUBM9Q1RCETKCOqdOkX2ZydqVf0" alt="coinbash" width="45" height="45">
 <img src="https://play-lh.googleusercontent.com/Mz83heom_8jnRplnSDxZFJ3WMz7EpMARiMZPkKTHpWF2HAh9DZTJFphjLTSWxfTa_g" alt="trading view" width="45" height="45">
 <img src="https://play-lh.googleusercontent.com/wnNYBAH1m-XJMfduOHfEATQAhCwyKUYeHAD1Fi9-OjtxKyPKjFEmgWvbx-OX2dM65xjp" alt="zerodha kite" width="45" height="45">
 <img src="https://yt3.googleusercontent.com/3baJDinAvXHt20hGgcK93Z9li2PXBEOP8u9chdmClUSfUdhMu-t8yCtDIeCQo24qCY8m8vMa=s900-c-k-c0x00ffffff-no-rj" alt="wazirx" width="45" height="45">
