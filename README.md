@@ -25,16 +25,13 @@
 • 🔍 Passionate about Electronics & Digital Hardware. 
 • 💻 Hacking & Network Security Enthusiast.
 • 🎩 Red Teaming.
+
+
+ 
  
 </pre>
  
 ---
-
-<pre>
-
-
- 
-</pre>
 
  <div align=center>
  
