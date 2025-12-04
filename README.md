@@ -19,9 +19,9 @@
 
 
 **👋 Hey, I'm Chintan Patel  !!**  
-🚀 Linux & open-source , but with style..        
-📚 Currently diving into DSA (with c++).   
-🔍 Passionate about Cybersecurity & Ethical-Hacking. 
+- 🚀 Linux & open-source , but with style..        
+- 📚 Currently diving into DSA (with c++).   
+- 🔍 Passionate about Cybersecurity & Ethical-Hacking. 
 
 ---
 
