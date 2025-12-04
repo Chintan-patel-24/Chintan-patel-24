@@ -209,3 +209,12 @@
   </a>
   
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chintan-patel-24&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Chintan-patel-24?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Chintan-patel-24?label=Stars&style=social" alt="stars" />
+</p>
+
