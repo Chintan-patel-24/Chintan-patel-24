@@ -163,14 +163,29 @@
 <div align=center>
 
  ## 🌱 my favorite Literary Treasures 🌱
- 
-<a>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a>
  <img src="https://m.media-amazon.com/images/I/71Eoo+tZazL._UF1000,1000_QL80_.jpg" alt="The Hacker Playbook" width="106" hieght="400">
-</a>
-<a><img src="https://m.media-amazon.com/images/I/915L+o-qUaL._UF1000,1000_QL80_.jpg" alt="The Hacker Playbook 2" width="112" hieght="400">
-</a>
-<a> <img src="https://m.media-amazon.com/images/I/91HmbcCPneL._UF1000,1000_QL80_.jpg" alt="The Hacker Playbook 3" width="100" hieght="400">
- </a>
+</a></td>
+      <td><a>
+ <img src="https://m.media-amazon.com/images/I/915L+o-qUaL._UF1000,1000_QL80_.jpg" alt="The Hacker Playbook 2" width="112" hieght="400">
+      <td><a>
+<img src="https://m.media-amazon.com/images/I/91HmbcCPneL._UF1000,1000_QL80_.jpg" alt="The Hacker Playbook 3" width="100" hieght="400">
+</a></td>
+   </tr>
+       
+  </tbody>
+  <tfoot>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tfoot>
+</table>
 
  </div>
  
