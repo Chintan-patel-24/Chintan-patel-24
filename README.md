@@ -176,6 +176,8 @@
 <img src="https://m.media-amazon.com/images/I/91HmbcCPneL._UF1000,1000_QL80_.jpg" alt="The Hacker Playbook 3" width="100" hieght="400">
 </a></td>
    </tr>
+<tr>
+</tr>    
   </tbody>
   <tfoot>
     <tr>
