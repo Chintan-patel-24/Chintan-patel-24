@@ -162,7 +162,7 @@
 
 <div align=center>
 
- ## 🌱 my favorite Literary Treasures 🌱
+ ## 🌱 Favorite Literary Treasures 🌱
 
 <table>
   <tbody>
