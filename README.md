@@ -145,6 +145,7 @@
 </a>
 <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Replit-Dark.svg" alt="replit" width="45" height="45">
 </a>
+<a> <img alt="codeblocks-auto.svg" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/69fa46e75e198c966d5ab12d3af58e0afd4b6d80/assets/codeblocks-auto.svg" alt="code blocks" width="45" height="45"> </a>
 <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="python" width="45" height="45">
 </a>
 <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" alt="linux" width="45" height="45">
