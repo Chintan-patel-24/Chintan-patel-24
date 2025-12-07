@@ -95,6 +95,8 @@
 </a>
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg" alt="ai" width="45" height="45">
 </a>
+<a> <img alt="HTML.svg" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" height="256" alt="html" width="45" height="45">
+</a>
 <a>  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="c" width="45" height="45">
 </a>
  <a>  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="git" width="45" height="45">
