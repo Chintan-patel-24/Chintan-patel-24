@@ -130,7 +130,8 @@
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tor_Browser_icon.svg/2048px-Tor_Browser_icon.svg.png" alt="tor" width="45" height="45">
 </a>
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/2089px-Fedora_icon_%282021%29.svg.png" alt="fidora" width="45" height="45">
-<img src="https://imgs.search.brave.com/g6tROItCPfE7NA4WVpydxVfvkynyIfaaeqMDKgSGkEE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5na2l0LmNvbS9w/bmcvZnVsbC8zNjAt/MzYwOTE4OF9jb21t/dW5pdHktcGFycm90/LW9zLWxvZ28tcG5n/LnBuZw"  alt="parrot os" width="45" height="45">
+<a><img src="https://imgs.search.brave.com/g6tROItCPfE7NA4WVpydxVfvkynyIfaaeqMDKgSGkEE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5na2l0LmNvbS9w/bmcvZnVsbC8zNjAt/MzYwOTE4OF9jb21t/dW5pdHktcGFycm90/LW9zLWxvZ28tcG5n/LnBuZw"  alt="parrot os" width="45" height="45">
+ <a>
  </a>
  <a> <img src="https://www.kali.org/tools/gophish/images/gophish-logo.svg" alt="gophish" width="45" height="45">
  </a>
@@ -152,7 +153,9 @@
  </a>
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg" alt="unantu" width="45" height="45">
  </a>
-<a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arch-Dark.svg" alt="Arch" width="45" height="45"/>
+<a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arch-Dark.svg" alt="Arch" width="45" height="45">
+ </a>
+ <a> <img alt="Mint-Dark.svg" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Mint-Dark.svg" alt="mint" width="45" height="45">
  </a>
  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg" alt="kali" width="45" height="45">
  </a>
