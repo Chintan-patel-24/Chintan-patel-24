@@ -182,7 +182,9 @@
       <td><a>
 <img src="https://m.media-amazon.com/images/I/91HmbcCPneL._UF1000,1000_QL80_.jpg" alt="The Hacker Playbook 3" width="100" hieght="400">
 </a></td>
-        <td><a>
+      </tr>
+    <tr>
+  <td><a>
   <img src="https://m.media-amazon.com/images/I/91zU8vKrk+L._AC_UF1000,1000_QL80_.jpg" alt="The blackhat python first edttion" width="109" hieght="900">
  </a></td>
  <td><a>
