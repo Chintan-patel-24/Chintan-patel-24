@@ -132,10 +132,10 @@
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tor_Browser_icon.svg/2048px-Tor_Browser_icon.svg.png" alt="tor" width="45" height="45">
 </a>
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/2089px-Fedora_icon_%282021%29.svg.png" alt="fidora" width="45" height="45">
-<a><img src="https://imgs.search.brave.com/g6tROItCPfE7NA4WVpydxVfvkynyIfaaeqMDKgSGkEE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5na2l0LmNvbS9w/bmcvZnVsbC8zNjAt/MzYwOTE4OF9jb21t/dW5pdHktcGFycm90/LW9zLWxvZ28tcG5n/LnBuZw"  alt="parrot os" width="45" height="45">
+<a><img src="https://imgs.search.brave.com/g6tROItCPfE7NA4WVpydxVfvkynyIfaaeqMDKgSGkEE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5na2l0LmNvbS9w/bmcvZnVsbC8zNjAt/MzYwOTE4OF9jb21t/dW5pdHktcGFycm90/LW9zLWxvZ28tcG5n/LnBuZw" alt="parrot os" width="45" height="45">
  <a>
  </a>
- <a> <StackIcon name="huggingface" />
+ <a> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg?download=true"  alt="huggingface" width="45" height="45">
  </a>
  <a> <img src="https://www.kali.org/tools/gophish/images/gophish-logo.svg" alt="gophish" width="45" height="45">
  </a>
