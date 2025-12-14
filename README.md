@@ -117,6 +117,8 @@
 </a>
  <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS4jNurSmM7FW_XcdATK_epGi0Q6CXHCPiyA&amp;s" alt="gnome" width="45" height="45">
 </a>
+<a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVZ9JJ3PrF8m-lYW-rPzJpZJVMzq3CwpdsQ&amp;s" alt="ollama" width="45" height="45">
+</a>
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Hyprland_logo.png"  alt="hayperland" width="45" height="45">
 </a>
 <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJNnjZv36ijogi3aM_xcSMy26_QeOWrVmJQ&amp;s" alt="code-oss" width="45" height="45">
