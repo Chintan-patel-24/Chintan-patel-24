@@ -191,7 +191,10 @@
  <td><a>
   <img src="https://m.media-amazon.com/images/I/71WlEeiwLTL.jpg" alt="KALI LINUX REVEALED" width="110" hieght="900">
   </a></td>
-         <td><a>
+   </tr>  
+  </tbody>
+       <tr>
+     <td><a>
     <img src="https://m.media-amazon.com/images/I/71G-QzKFp5L._AC_UF1000,1000_QL80_.jpg" alt="Blockchain" width="100" hieght="400">
       </a></td>
        <td><a>
@@ -200,8 +203,7 @@
       <td><a>
      <img src="https://m.media-amazon.com/images/I/71sNaCDncJL.jpg"  alt="One Up On Wall Street" width="100" hieght="400">
       </a></td>
-   </tr>  
-  </tbody>
+        </tr>
   <tfoot>
   </tfoot>
 </table>
