@@ -260,3 +260,9 @@
   <img src="https://img.shields.io/github/stars/Chintan-patel-24?label=Stars&style=social" alt="stars" />
 </p>
 
+---
+
+<p align="center">
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
+
+</p>
