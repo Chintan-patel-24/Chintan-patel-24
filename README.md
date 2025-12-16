@@ -256,6 +256,10 @@
   
 </div>
 
+
+![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Chintan-patel-24&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=dark&show_icons=true)
+
+
 ---
 
 <p align="center">
