@@ -266,6 +266,17 @@
 
 ---
 
+## 💖 Thanks for Visiting My Profile!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100px"><br><br>
+  <b>✨ Thank you for visiting my GitHub profile! ✨</b><br>
+  <br>
+  <img src="https://img.shields.io/badge/Have%20a%20Great%20Day!-brightgreen?style=for-the-badge" />
+</p>
+
+---
+
 <p align="center">
  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 
