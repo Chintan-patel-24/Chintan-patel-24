@@ -21,7 +21,7 @@
 
 • 👋 Hey, I'm Chintan Patel  !!
  
-• 🚀 Linux & open-source , but with style..       
+• 🚀 Linux & open-source , with style..       
  
 • 📚 Currently diving into DSA (with c++).   
  
