@@ -27,7 +27,7 @@
  
 • 🔍 Passionate about Electronics & Digital Hardware. 
  
-• 💻 Hacking & Network Security Enthusiast.
+• 💻 Hacking Enthusiast & Technophile
  
 • 🎩 Red Teaming.
 </pre>
